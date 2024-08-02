@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+
+h1,  li{
+ color: rgb(128, 0, 45);
+ margin-left: 20px;
+
+ 
+}
