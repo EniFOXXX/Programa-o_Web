@@ -1,0 +1,33 @@
+
+[
+ {
+    "id": 1,
+    "nome": "martelo",
+    "marca": "steel",
+    "categoria": "ferramenta",
+    "preco": 15.79,
+    "quant_estoque": 20
+
+},
+
+{
+    "id": 1,
+    "nome": "lampada",
+    "marca": "top",
+    "categoria": "iluminação",
+    "preco": 10.00,
+    "quant_estoque": 15
+
+
+},
+
+{
+    "id": 1,
+    "nome": "botina",
+    "marca": "vulcano",
+    "categoria": "vestuario",
+    "preco": 70.00,
+    "quant_estoque": 5
+
+}
+]
