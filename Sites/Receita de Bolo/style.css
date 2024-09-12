@@ -1,0 +1,39 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 22px;
+    text-align: center;
+}
+
+h2{
+    font-size: 18px;
+    color: #88100f;
+    font-weight: normal;
+    text-align: center
+}
+
+h3{
+    font-size: 15px;
+    text-decoration: underline;
+    color: #88100f;
+}
+ 
+p{
+    font-size: 14px;
+    line-height: 28px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.cake{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px 30px 0px;
+   
+}
